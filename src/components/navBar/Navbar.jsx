@@ -1,5 +1,5 @@
-const SideNavbar = () => {
+const Navbar = () => {
   return <div className="bg-blue-400">SideNavbar</div>;
 };
 
-export default SideNavbar;
+export default Navbar;

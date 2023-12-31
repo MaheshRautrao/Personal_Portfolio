@@ -1,11 +1,11 @@
-import MainContainer from "./components/MainContainer/MainContainer";
-import SideNavbar from "./components/sideNavBar/SideNavbar";
+import Footer from "./components/footer/Footer";
+import Skills from "./components/skills/Skills";
 
 function App() {
   return (
     <div className="flex flex-col">
-      <SideNavbar />
-      <MainContainer />
+      <Skills />
+      <Footer />
     </div>
   );
 }
